@@ -5,7 +5,8 @@
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
+In this project, I built a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more. 
+Technoloy used: Routing, Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables.
 
 ## Usage
 
